@@ -4,6 +4,7 @@ public class Practice {
 	static boolean b=true;
 	
 	float g=20.003f;
+	
 	char p='N';
 	
 	
