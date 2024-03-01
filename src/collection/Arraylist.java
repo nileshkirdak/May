@@ -24,7 +24,6 @@ public class Arraylist {
 		a1.add(3, 14);
 		
 		
-		
 		System.out.println(a1);
 		a1.remove(3);
 		

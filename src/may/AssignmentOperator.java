@@ -4,11 +4,15 @@ public class AssignmentOperator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+         double w = 63.24;
+         char q ='a';
+         
+         String str= "i am nilesh";
 		 int a=5;
 		 float b=65f;
 		  a+=b; //a=a+b
 		  System.out.println("value of a :"+a);
+		  System.out.println("value of b :"+b);
 		  
 		  a-=50;
 		  System.out.println("value of a :"+a); 
@@ -24,9 +28,9 @@ public class AssignmentOperator {
 		  b%=2;
 		  System.out.println("value of b :"+b);
 		  
-		  float q=65; // q= q%3
-		  q%=3;
-		  System.out.println("value of q :"+q);
+		  float q1=65f; // q= q%3
+		  q1%=3;
+		  System.out.println("value of q :"+q1);
 		  
 		   int h=12; 
 		   String f = Integer.toBinaryString(h);
